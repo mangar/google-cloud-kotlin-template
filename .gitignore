@@ -1,0 +1,12 @@
+/resources/credential.json
+/.settings
+/.classpath
+/.project
+/bin
+/.gradle
+/.idea
+/out
+/build
+*.iml
+*.ipr
+*.iws
